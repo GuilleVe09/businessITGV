@@ -1,0 +1,7 @@
+# React
+businessit-frontend/node_modules/
+businessit-frontend/build/
+
+# .Net
+businessITAPI/bin/
+businessITAPI/obj/
